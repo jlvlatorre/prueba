@@ -1,2 +1,2 @@
 # prueba
-Prueba usando RStudio
+Prueba usando Python
